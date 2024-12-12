@@ -1,0 +1,15 @@
+.tempCal {
+  gap: 2rem;
+  margin: 3rem 0;
+}
+.tempCal fieldset {
+  width: 30vw;
+  padding: 1rem;
+}
+.tempCal input {
+  font-size: 1rem;
+  padding: 0.3rem 0.7rem;
+}
+.tempCal legend {
+  text-align: center;
+}

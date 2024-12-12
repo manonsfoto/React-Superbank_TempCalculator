@@ -1,0 +1,33 @@
+.superBank {
+  margin: 3rem auto;
+  background-color: #f0f599;
+  padding: 2rem 0;
+}
+.title {
+  text-transform: uppercase;
+  margin-bottom: 3rem;
+}
+.superBank form {
+  background-color: #c9a9fa;
+  padding: 1rem 3rem;
+  border-radius: 1rem;
+  gap: 0.5rem;
+}
+
+.superBank input {
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-wrapper {
+  flex-direction: row;
+  gap: 0.5rem;
+}
+.btn-wrapper button {
+  padding: 0.5rem 0.9rem;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 2px 2px gray;
+}
