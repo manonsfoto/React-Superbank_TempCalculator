@@ -9,7 +9,7 @@ const WaterStatus: React.FC<Props> = ({ celsius }) => {
     <p className="result-water">
       The water
       <span className={`${Number(celsius) >= 100 && "red"}`}>
-        {Number(celsius) >= 100 ? "IS" : "is not"}
+        {Number(celsius) >= 100 ? " IS " : " is not "}
       </span>
       boiling.
     </p>
